@@ -5,17 +5,17 @@
 
 <br>
 
-- :speech_balloon: Ask me about **web development & cyber security**
+- :speech_balloon: Ask me about **web development & DevOps**
 
-- :telescope: I’m currently working on **Being a security analyst**
+- :telescope: I’m currently working on **Being a DevOps engineert**
 
-- :seedling: I’m currently learning **Javascript**
+- :seedling: I’m currently learning **Javascript /c++**
 
 - :man_technologist: My portfolio is > [https://rubbst.github.io/](https://rubbst.github.io/)
 
 - :mailbox: How to reach me **rubbstdev@protonmail.com**
 
-- :zap: Fun fact **I think im good at javascript**
+- :zap: Fun fact **I think im good at using stackoverflow**
 
 
 <h3 align="center">Languages and Tools:</h3>
