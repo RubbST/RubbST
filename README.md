@@ -1,4 +1,4 @@
-<h1 align="center">Hi :wave:, I'm Naeem Roussas</h1>
+<h1 align="center">Hi :wave:, I'm RubbST</h1>
 <h3 align="center">A Frontend Website developer & Security analyst</h3>
 
 <img align="right"  width="480" height="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
