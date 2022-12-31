@@ -7,7 +7,7 @@
 
 - :speech_balloon: Ask me about **web development & DevOps**
 
-- :telescope: I’m currently working on **Being a DevOps engineert**
+- :telescope: I’m currently working on **Being a DevSec engineer**
 
 - :seedling: I’m currently learning **Javascript /c++**
 
